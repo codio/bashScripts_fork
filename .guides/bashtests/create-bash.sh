@@ -1,7 +1,7 @@
 #!/bin/bash
 # bash_history edit
 . ~/workspace/.guides/bashtests/function.sh  #import functions from function.sh
-
+sss
 bash_history=~/.bash_history
 check_file=create-bash
 hist_file="/home/codio/workspace/.guides/bashtests/$check_file.txt"
